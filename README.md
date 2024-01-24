@@ -9,6 +9,14 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="150" src="https://i.imgur.com/HhmWrvh.png"  />
+
+###
+
+<br clear="both">
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -17,15 +25,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/HhmWrvh.png"  />
-
-###
-
-<div align="left">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/owenlol2132/owenlol2132/output/snake.svg" alt="Snake animation" />
 
