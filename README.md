@@ -21,12 +21,6 @@
 
 ###
 
-<div align="left">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/owenlol2132/owenlol2132/output/snake.svg" alt="Snake animation" />
 
 ###
